@@ -1,0 +1,264 @@
+﻿tournament,timestamp,date_GMT,status,stadium_name,home_team_name,away_team_name,home_min_traded_price,home_max_traded_price,home_weighted_average_price,home_back_volume,draw_min_traded_price,draw_max_traded_price,draw_weighted_average_price,draw_back_volume,away_min_traded_price,away_max_traded_price,away_weighted_average_price,away_back_volume
+FIFA World Cup,1402603200,Jun 12 2014 - 8:00pm,complete,Arena Corinthians,Brazil,Croatia,1.29,1.38,1.33,4189836.68,5.2,6.4,5.55,297003.57,9.6,16.5,14.28,200351.62
+FIFA World Cup,1402675200,Jun 13 2014 - 4:00pm,complete,Arena das Dunas,Mexico,Cameroon,1.35,2.44,2.26,1099727.04,3.15,3.8,3.26,421669.66,3.4,5,4.03,420891.46
+FIFA World Cup,1402686000,Jun 13 2014 - 7:00pm,complete,Arena Fonte Nova,Spain,Netherlands,1.35,2.42,1.86,3623801.09,3.15,3.8,3.5,427574.46,2.74,6,5.64,422030.08
+FIFA World Cup,1402696800,Jun 13 2014 - 10:00pm,complete,Arena Pantanal,Chile,Australia,1.42,1.71,1.48,3995793.85,3.7,5,4.59,212819.54,5,11.5,9.56,240946.89
+FIFA World Cup,1402761600,Jun 14 2014 - 4:00pm,complete,EstÃ¡dio Governador MagalhÃ£es Pinto,Colombia,Greece,1.54,1.98,1.92,1504036.77,3.25,3.9,3.36,295585.21,5.1,10,5.55,170081.99
+FIFA World Cup,1402772400,Jun 14 2014 - 7:00pm,complete,EstÃ¡dio Governador PlÃ¡cido Aderaldo Castelo,Uruguay,Costa Rica,1.32,1.54,1.5,4355716.45,4.1,5.4,4.35,337926.02,7.8,16,9.77,167169.45
+FIFA World Cup,1402783200,Jun 14 2014 - 10:00pm,complete,Arena da AmazÃ´nia (Manaus- Amazonas),England,Italy,2.52,3.85,2.67,3155964.14,3,3.35,3.1,1055106.39,2.4,3.55,3.31,1321730.45
+FIFA World Cup,1402794000,Jun 15 2014 - 1:00am,complete,Itaipava Arena Pernambuco,Ivory Coast,Japan,2.34,2.98,2.81,382146.42,3.1,3.65,3.48,384219.27,2.72,3.35,2.79,387403.44
+FIFA World Cup,1402848000,Jun 15 2014 - 4:00pm,complete,EstÃ¡dio Nacional de BrasÃ­lia (BrasÃ­lia- Distrito Federal),Switzerland,Ecuador,2.2,2.72,2.48,999937.08,3.1,3.45,3.34,321202.98,2.96,4.4,3.33,379647.22
+FIFA World Cup,1402858800,Jun 15 2014 - 7:00pm,complete,EstÃ¡dio JosÃ© Pinheiro Borda,France,Honduras,1.26,1.44,1.29,3960143.97,3.8,7,6.28,167489.83,11,17.5,14.76,109013.22
+FIFA World Cup,1402869600,Jun 15 2014 - 10:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Argentina,Bosnia-Herzegovina,1.11,1.58,1.35,4673955.23,3.95,6.2,5.89,221720.63,7.6,14,11.96,199214.63
+FIFA World Cup,1402934400,Jun 16 2014 - 4:00pm,complete,Arena Fonte Nova,Germany,Portugal,1.72,2.3,2.09,3115797.16,2.96,4.1,3.67,535740.01,3.7,6.4,3.96,758382.8
+FIFA World Cup,1402945200,Jun 16 2014 - 7:00pm,complete,EstÃ¡dio Joaquim AmÃ©rico GuimarÃ£es,Iran,Nigeria,3.75,5.6,5.06,336925.43,3.2,3.7,3.58,374088.97,1.85,2.34,1.91,3007548.96
+FIFA World Cup,1402956000,Jun 16 2014 - 10:00pm,complete,Arena das Dunas,Ghana,USA,2.4,2.86,2.5,1824347.42,3,3.65,3.56,524793.13,2.92,3.3,3.13,650391.24
+FIFA World Cup,1403020800,Jun 17 2014 - 4:00pm,complete,EstÃ¡dio Governador MagalhÃ£es Pinto,Belgium,Algeria,1.33,1.58,1.38,4195376.77,4.1,5.8,5.41,156685.93,8,13,11.24,124295.6
+FIFA World Cup,1403031600,Jun 17 2014 - 7:00pm,complete,EstÃ¡dio Governador PlÃ¡cido Aderaldo Castelo,Brazil,Mexico,1.1,1.43,1.38,4014614.13,5,6.4,5.57,272365.12,9,16,10.59,216164.31
+FIFA World Cup,1403042400,Jun 17 2014 - 10:00pm,complete,Arena Pantanal,Russia,South Korea,1.8,2.4,1.88,4932303.52,3.15,3.9,3.73,353263.03,3.65,5.4,5.01,353340.66
+FIFA World Cup,1403107200,Jun 18 2014 - 4:00pm,complete,EstÃ¡dio JosÃ© Pinheiro Borda,Australia,Netherlands,8.2,21,16.41,102575.93,4.3,8,7.21,118833.42,1.21,1.5,1.25,3895200.76
+FIFA World Cup,1403118000,Jun 18 2014 - 7:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Spain,Chile,1.52,1.89,1.61,3837071.48,3.45,4.9,4.63,322187.73,4.4,7.4,5.95,388079.45
+FIFA World Cup,1403128800,Jun 18 2014 - 10:00pm,complete,Arena da AmazÃ´nia (Manaus- Amazonas),Cameroon,Croatia,3.95,7.2,5.9,274413.64,3.35,4.4,4.03,281064.45,1.59,2.24,1.71,3581866.69
+FIFA World Cup,1403193600,Jun 19 2014 - 4:00pm,complete,EstÃ¡dio Nacional de BrasÃ­lia (BrasÃ­lia- Distrito Federal),Colombia,Ivory Coast,1.8,2.3,2.1,1182776.75,3.2,3.8,3.67,271047.89,3.55,4.6,3.99,278537.93
+FIFA World Cup,1403204400,Jun 19 2014 - 7:00pm,complete,Arena Corinthians,Uruguay,England,2.34,4.1,3.92,462817.8,2.72,4.1,3.84,372924.83,1.97,3.7,2.04,5616119.68
+FIFA World Cup,1403215200,Jun 19 2014 - 10:00pm,complete,Arena das Dunas,Japan,Greece,2.18,2.82,2.44,1734963.75,3.25,3.65,3.48,304148.16,2.78,3.9,3.29,590700.3
+FIFA World Cup,1403280000,Jun 20 2014 - 4:00pm,complete,Itaipava Arena Pernambuco,Italy,Costa Rica,1.24,1.65,1.6,3355330.5,3.9,6.6,4.19,205133.3,6,16,7.37,210074.1
+FIFA World Cup,1403290800,Jun 20 2014 - 7:00pm,complete,Arena Fonte Nova,Switzerland,France,3.75,5.5,5.02,319360.87,3.35,3.95,3.69,334346.13,1.79,2.32,1.88,3169131.86
+FIFA World Cup,1403301600,Jun 20 2014 - 10:00pm,complete,EstÃ¡dio Joaquim AmÃ©rico GuimarÃ£es,Honduras,Ecuador,5,7.2,6.18,184707.92,3.45,4.7,4.38,190449.39,1.6,1.94,1.64,1942916.13
+FIFA World Cup,1403366400,Jun 21 2014 - 4:00pm,complete,EstÃ¡dio Governador MagalhÃ£es Pinto,Argentina,Iran,1.12,1.3,1.16,2931225.24,7,12.5,9.75,86178.26,16,40,28.62,44485.54
+FIFA World Cup,1403377200,Jun 21 2014 - 7:00pm,complete,EstÃ¡dio Governador PlÃ¡cido Aderaldo Castelo,Germany,Ghana,1.28,1.6,1.36,3429702.38,4.1,6.8,5.88,140188.36,8.2,14,10.19,173050.04
+FIFA World Cup,1403388000,Jun 21 2014 - 10:00pm,complete,Arena Pantanal,Nigeria,Bosnia-Herzegovina,2.82,5.7,4.64,315175.53,3.15,4.1,3.78,289333.86,1.76,2.84,1.92,2726387.87
+FIFA World Cup,1403452800,Jun 22 2014 - 4:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Belgium,Russia,1.95,2.46,2.24,2493792.76,3.3,3.85,3.47,384923.21,3.45,4.7,3.73,677846.14
+FIFA World Cup,1403463600,Jun 22 2014 - 7:00pm,complete,EstÃ¡dio JosÃ© Pinheiro Borda,South Korea,Algeria,1.98,2.68,2.58,951952.01,3.25,3.8,3.4,254341.38,3,3.9,3.15,458443.94
+FIFA World Cup,1403474400,Jun 22 2014 - 10:00pm,complete,Arena da AmazÃ´nia (Manaus- Amazonas),USA,Portugal,4.2,7.2,4.79,562250.4,3.4,4.5,4.13,387347.76,1.61,2,1.83,4023849.38
+FIFA World Cup,1403539200,Jun 23 2014 - 4:00pm,complete,EstÃ¡dio Joaquim AmÃ©rico GuimarÃ£es,Australia,Spain,7,44,8.42,203647.1,4.2,9.4,5.27,163462.72,1.17,1.55,1.45,2257587.26
+FIFA World Cup,1403539200,Jun 23 2014 - 4:00pm,complete,Arena Corinthians,Netherlands,Chile,2.18,2.86,2.72,456511.71,2.96,3.75,3.65,152881.75,2.62,3.9,2.74,515864.57
+FIFA World Cup,1403553600,Jun 23 2014 - 8:00pm,complete,EstÃ¡dio Nacional de BrasÃ­lia (BrasÃ­lia- Distrito Federal),Cameroon,Brazil,12,46,27.33,58142.61,5.8,12,10.28,65487.38,1.12,1.33,1.16,3648550.01
+FIFA World Cup,1403553600,Jun 23 2014 - 8:00pm,complete,Itaipava Arena Pernambuco,Croatia,Mexico,2.36,3,2.83,798621.88,3.15,3.95,3.6,303579.84,2.62,3.25,2.7,604304.73
+FIFA World Cup,1403625600,Jun 24 2014 - 4:00pm,complete,EstÃ¡dio Governador MagalhÃ£es Pinto,Costa Rica,England,4.2,10.5,4.69,512357.21,3.7,5.1,4.13,235628.63,1.46,1.99,1.83,2806851.85
+FIFA World Cup,1403625600,Jun 24 2014 - 4:00pm,complete,Arena das Dunas,Italy,Uruguay,2.26,2.98,2.61,909735.3,2.72,3.75,3.56,300747.89,2.72,3.75,2.92,510047.51
+FIFA World Cup,1403640000,Jun 24 2014 - 8:00pm,complete,Arena Pantanal,Japan,Colombia,3.1,5,3.7,748100.51,2.04,4.2,3.97,294655.05,1.82,3.5,2.08,2650560.56
+FIFA World Cup,1403640000,Jun 24 2014 - 8:00pm,complete,EstÃ¡dio Governador PlÃ¡cido Aderaldo Castelo,Greece,Ivory Coast,3,4.5,4.17,342964.2,3.1,4.5,3.77,218932.63,1.86,2.84,2.02,1920215.76
+FIFA World Cup,1403712000,Jun 25 2014 - 4:00pm,complete,EstÃ¡dio JosÃ© Pinheiro Borda,Nigeria,Argentina,8,13.5,10.01,123438.16,3.8,6.4,4.27,198762.01,1.19,1.63,1.49,2612741.29
+FIFA World Cup,1403712000,Jun 25 2014 - 4:00pm,complete,Arena Fonte Nova,Bosnia-Herzegovina,Iran,1.4,2.36,2.21,1023473.74,3.35,5.4,3.73,209000.97,3.35,9.6,3.6,391575.02
+FIFA World Cup,1403726400,Jun 25 2014 - 8:00pm,complete,Arena da AmazÃ´nia (Manaus- Amazonas),Honduras,Switzerland,6.2,10,7.9,159961.6,3.55,5,4.75,95021.44,1.42,2.1,1.51,1501953.47
+FIFA World Cup,1403726400,Jun 25 2014 - 8:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Ecuador,France,3.35,6.4,5.97,198425.8,3.2,4.6,4.34,128000.94,1.61,2.46,1.66,2216438.27
+FIFA World Cup,1403798400,Jun 26 2014 - 4:00pm,complete,EstÃ¡dio Nacional de BrasÃ­lia (BrasÃ­lia- Distrito Federal),Portugal,Ghana,1.66,2.4,1.93,3317771.31,3.4,5.4,4.82,257754.61,3.05,5.8,3.69,521916.39
+FIFA World Cup,1403798400,Jun 26 2014 - 4:00pm,complete,Itaipava Arena Pernambuco,USA,Germany,2.8,17,9.93,274192.97,2.26,7.8,3.07,876885.25,1.25,2.04,1.71,2798253.42
+FIFA World Cup,1403812800,Jun 26 2014 - 8:00pm,complete,EstÃ¡dio Joaquim AmÃ©rico GuimarÃ£es,Algeria,Russia,3.55,7.6,3.8,455970.87,3.3,4.3,3.86,210195.34,1.55,2.32,2.08,1873384.6
+FIFA World Cup,1403812800,Jun 26 2014 - 8:00pm,complete,Arena Corinthians,South Korea,Belgium,4.5,7.6,4.97,180669.89,3.25,4.9,3.73,152030.27,1.56,2.06,1.89,2157746.81
+FIFA World Cup,1403971200,Jun 28 2014 - 4:00pm,complete,EstÃ¡dio Governador MagalhÃ£es Pinto,Brazil,Chile,1.52,1.73,1.57,3900460.5,4.1,4.9,4.66,360667.87,4.3,7.4,6.73,300742.64
+FIFA World Cup,1403985600,Jun 28 2014 - 8:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Colombia,Uruguay,1.98,2.42,2.16,3605179.03,3.35,3.65,3.46,426588.68,2.62,4.7,3.97,625112.3
+FIFA World Cup,1404057600,Jun 29 2014 - 4:00pm,complete,EstÃ¡dio Governador PlÃ¡cido Aderaldo Castelo,Netherlands,Mexico,2,2.26,2.18,3577624.84,3.35,3.6,3.47,446032.3,3.5,4.5,3.96,645760.6
+FIFA World Cup,1404072000,Jun 29 2014 - 8:00pm,complete,Itaipava Arena Pernambuco,Costa Rica,Greece,2.3,2.86,2.75,2578668.86,3.1,3.75,3.2,913035.9,2.84,3.6,3.08,1161383.47
+FIFA World Cup,1404144000,Jun 30 2014 - 4:00pm,complete,EstÃ¡dio Nacional de BrasÃ­lia (BrasÃ­lia- Distrito Federal),France,Nigeria,1.42,1.59,1.45,4173090.95,4.3,5,4.83,194689.93,6.6,10.5,9.38,171469.7
+FIFA World Cup,1404158400,Jun 30 2014 - 8:00pm,complete,EstÃ¡dio JosÃ© Pinheiro Borda,Germany,Algeria,1.3,1.37,1.34,4754692.36,5.6,6.4,5.93,261696.44,10.5,13.5,11.87,179865.62
+FIFA World Cup,1404230400,Jul 01 2014 - 4:00pm,complete,Arena Corinthians,Argentina,Switzerland,1.47,1.61,1.58,3075570.49,4.2,5,4.34,187000.72,6.8,10,7.39,226841.47
+FIFA World Cup,1404244800,Jul 01 2014 - 8:00pm,complete,Arena Fonte Nova,Belgium,USA,1.81,2.12,2.05,2867531.22,3.4,3.9,3.48,557739.02,4.2,5.5,4.41,535754.53
+FIFA World Cup,1404489600,Jul 04 2014 - 4:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),France,Germany,2.5,4,2.95,1472303.27,3.2,3.95,3.25,626110.63,2,2.94,2.81,1625862.7
+FIFA World Cup,1404504000,Jul 04 2014 - 8:00pm,complete,EstÃ¡dio Governador PlÃ¡cido Aderaldo Castelo,Brazil,Colombia,1.75,1.96,1.8,6281794.22,3.65,4.2,3.92,482642.89,4.2,5.5,5.2,959475.46
+FIFA World Cup,1404576000,Jul 05 2014 - 4:00pm,complete,EstÃ¡dio Nacional de BrasÃ­lia (BrasÃ­lia- Distrito Federal),Argentina,Belgium,1.4,2.28,2.06,2667223.63,3.3,3.85,3.46,491162.41,3.1,4.7,4.39,513688.09
+FIFA World Cup,1404590400,Jul 05 2014 - 8:00pm,complete,Arena Fonte Nova,Netherlands,Costa Rica,1.47,1.58,1.56,3739592.95,4.2,4.8,4.33,204177.09,6.6,8.6,7.89,273785.96
+FIFA World Cup,1404849600,Jul 08 2014 - 8:00pm,complete,EstÃ¡dio Governador MagalhÃ£es Pinto,Brazil,Germany,2.46,2.98,2.73,3342603.73,3.15,3.7,3.28,899755.72,2.68,3.25,3.02,2393966.38
+FIFA World Cup,1404936000,Jul 09 2014 - 8:00pm,complete,Arena Corinthians,Netherlands,Argentina,3.05,3.55,3.3,1554159.6,3.25,3.6,3.29,653442.02,2.4,2.62,2.53,2567838.35
+FIFA World Cup,1405195200,Jul 12 2014 - 8:00pm,complete,EstÃ¡dio Nacional de BrasÃ­lia (BrasÃ­lia- Distrito Federal),Brazil,Netherlands,2.12,3,2.23,3924945.74,3.3,4,3.77,599621.47,2.4,3.8,3.51,1253649.83
+FIFA World Cup,1405278000,Jul 13 2014 - 7:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Germany,Argentina,2,2.54,2.4,6856591.57,3.15,3.95,3.34,1092726.3,3.05,4,3.47,2270538.99
+Copa America,1434220200,Jun 11 2015 - 8:30pm,complete,Estadio Nacional Julio Martínez Prádanos,Chile,Ecuador,1.46,1.6,1.6,268699.67,5,4.1,4.2,47271.8,8,8,7.55,22533.21
+Copa America,1434297600,Jun 12 2015 - 8:30pm,complete,Estadio Sausalito,Mexico,Bolivia,1.47,1.64,1.67,345318.05,4.3,3.9,4.02,37433.13,7.4,7.4,6.58,28779.32
+Copa America,1434306600,Jun 13 2015 - 4:00pm,complete,Estadio Regional Calvo y Bascuñán,Uruguay,Jamaica,1.3,1.41,1.38,286475.42,6.4,5,5.37,28098.96,12,12,12.34,9314.67
+Copa America,1434391200,Jun 13 2015 - 6:30pm,complete,Estadio La Portada,Argentina,Paraguay,1.51,1.37,1.35,715982.9,4.6,5.5,5.52,35662.4,11,11,12.08,17327.34
+Copa America,1434400200,Jun 14 2015 - 4:00pm,complete,Estadio CODELCO-El Teniente,Colombia,Venezuela,1.46,1.52,1.49,238514.29,4.8,4.5,4.6,26716.1,8.4,8.4,9.09,18843
+Copa America,1434477600,Jun 14 2015 - 6:30pm,complete,Estadio Municipal Bicentenario Germán Be...,Brazil,Peru,1.25,1.4,1.4,844257.74,7.4,5.2,5.23,71020.83,10.5,10.5,11.14,37960.81
+Copa America,1434486600,Jun 15 2015 - 6:00pm,complete,Estadio Elías Figueroa Brander,Ecuador,Bolivia,1.3,1.55,1.61,353889.42,3.75,4.3,4.08,52470.33,8.2,8.2,7.42,29251.32
+Copa America,1434574800,Jun 15 2015 - 8:30pm,complete,Estadio Nacional Julio Martínez Prádanos,Chile,Mexico,1.85,1.64,1.63,515688.84,4,3.85,3.99,54400.99,7.4,7.4,7.53,27435.28
+Copa America,1434659400,Jun 16 2015 - 6:00pm,complete,Estadio Regional Calvo y Bascuñán,Paraguay,Jamaica,1.65,1.78,1.8,287868.64,3.6,3.7,3.74,40676.86,6,6,5.71,26068.03
+Copa America,1434736800,Jun 16 2015 - 8:30pm,complete,Estadio La Portada,Argentina,Uruguay,1.46,1.65,1.62,591144.13,4.6,3.95,4.05,46051.29,7,7,7.12,29806.3
+Copa America,1434745800,Jun 17 2015 - 9:00pm,complete,Estadio Monumental David Arellano,Brazil,Colombia,1.63,2.18,2.09,518481.01,3.1,3.4,3.53,77792.19,4,4,4.22,52755.53
+Copa America,1434816000,Jun 18 2015 - 8:30pm,complete,Estadio Elías Figueroa Brander,Peru,Venezuela,2.18,2.88,2.89,46501.62,3.4,3.3,3.31,46725.78,2.82,2.82,2.85,56735.95
+Copa America,1434825000,Jun 19 2015 - 6:00pm,complete,Estadio CODELCO-El Teniente,Mexico,Ecuador,2.4,2.6,2.54,223090.97,3.45,3.8,3.75,76819.59,2.88,2.88,2.92,135104.57
+Copa America,1434902400,Jun 19 2015 - 8:30pm,complete,Estadio Nacional Julio Martínez Prádanos,Chile,Bolivia,1.04,1.25,1.3,916328.63,6,6.4,5.85,43752.92,19,19,14.29,28383.68
+Copa America,1434911400,Jun 20 2015 - 4:00pm,complete,Estadio La Portada,Uruguay,Paraguay,1.6,2.28,2.36,204975.16,3.45,3.1,3.12,101077.78,4.2,4.2,3.96,61519.14
+Copa America,1435177800,Jun 20 2015 - 6:30pm,complete,Estadio Sausalito,Argentina,Jamaica,1.06,1.14,1.15,641937.18,13.5,10.5,10.04,13490.18,50,50,34.6,8486.76
+Copa America,1435264200,Jun 21 2015 - 4:00pm,complete,Estadio Municipal Bicentenario Germán Be...,Colombia,Peru,1.31,1.69,1.69,398757.67,3.55,3.75,3.85,73199.52,7.2,7.2,6.91,39239.89
+Copa America,1435350600,Jun 21 2015 - 6:30pm,complete,Estadio Monumental David Arellano,Brazil,Venezuela,1.09,1.63,1.61,752095.7,6,3.7,3.9,244783.12,8.4,8.4,8.22,86047.99
+Copa America,1435429800,Jun 24 2015 - 8:30pm,complete,Estadio Nacional Julio Martínez Prádanos,Chile,Uruguay,1.9,1.76,1.79,714942.07,3.8,3.75,3.74,91916.09,6.2,6.2,5.72,75362.82
+Copa America,1435609800,Jun 25 2015 - 8:30pm,complete,Estadio Municipal Bicentenario Germán Be...,Bolivia,Peru,4.3,5.7,5.54,58202.83,3.2,3.35,3.37,85915.79,1.91,1.91,1.92,497338.98
+Copa America,1435696200,Jun 26 2015 - 8:30pm,complete,Estadio Sausalito,Argentina,Colombia,2.04,1.88,1.88,977140.51,3.6,3.55,3.54,153358.14,5.4,5.4,5.44,97077.29
+Copa America,1435955400,Jun 27 2015 - 6:30pm,complete,Estadio Municipal Alcaldesa Ester Roa Re...,Brazil,Paraguay,1.72,1.63,1.65,847204.13,3.85,3.95,3.87,95376.9,7.4,7.4,7.06,66876.01
+Copa America,1436029200,Jun 29 2015 - 8:30pm,complete,Estadio Nacional Julio Martínez Prádanos,Chile,Peru,1.58,1.47,1.5,655774.25,3.75,4.6,4.45,75889.54,9.6,9.6,9.15,43220.76
+Copa America,1464978600,Jun 30 2015 - 8:30pm,complete,Estadio Municipal Alcaldesa Ester Roa Re...,Argentina,Paraguay,1.51,1.37,1.35,715982.9,4.6,5.5,5.52,35662.4,11,11,12.08,17327.34
+Copa America,1465057800,Jul 4 2015 - 5:00pm,complete,Estadio Nacional Julio Martínez Prádanos,Chile,Argentina,3.4,4.1,3.59,189575.06,3.25,4.3,3.46,208325.06,2,2.5,2.31,801117.1
+Copa America,1465059600,Jul 3 2015 - 8:30pm,complete,Estadio Municipal Alcaldesa Ester Roa Re...,Peru,Paraguay,2.32,2.8,2.58,169020.24,3.5,4,3.69,98225.65,2.66,3.25,2.93,92488.41
+Copa America,1465066800,Jun 3 2016 - 6:30pm,complete,Levi's Stadium,USA,Colombia,2.38,3.55,3.48,49968.28,2.98,3.3,3.22,46845.41,2.42,2.42,2.49,113492.94
+Copa America,1465142400,Jun 4 2016 - 5:00pm,complete,Camping World Stadium,Costa Rica,Paraguay,2.74,4.1,4.14,35600.59,2.96,3.05,3.08,42934.97,2.3,2.3,2.32,93241.42
+Copa America,1465146000,Jun 4 2016 - 4:30pm,complete,CenturyLink Field,Haiti,Peru,9.2,6.8,7.09,15915.75,7.2,3.8,3.87,18341.34,1.7,1.7,1.68,158850.94
+Copa America,1465239600,Jun 4 2016 - 7:00pm,complete,Rose Bowl,Brazil,Ecuador,1.56,2.04,1.95,234597.22,3.95,3.5,3.6,33809.33,4.6,4.6,4.89,40985.78
+Copa America,1465239600,Jun 5 2016 - 4:00pm,complete,Soldier Field,Jamaica,Venezuela,3.15,4.7,4.81,50764.73,3.45,3.5,3.42,60850.97,2.02,2.02,1.99,244440.91
+Copa America,1465326000,Jun 5 2016 - 5:00pm,complete,State Farm Stadium,Mexico,Uruguay,2.88,2.58,2.55,133456.9,3.25,3,3.18,66546.37,3.6,3.6,3.46,60470.64
+Copa America,1465327800,Jun 6 2016 - 7:00pm,complete,Camping World Stadium,Panama,Bolivia,2.68,2.08,2.1,231906.5,3.05,3.15,3.19,84719.58,4.9,4.9,4.8,49839.94
+Copa America,1465412400,Jun 7 2016 - 7:00pm,complete,Soldier Field,USA,Costa Rica,2.42,1.88,1.88,266584.73,1.01,3.65,3.6,54829.91,5.3,5.3,5.3,61110.48
+Copa America,1465414200,Jun 6 2016 - 7:00pm,complete,Levi's Stadium,Argentina,Chile,1.9,2.32,2.3,351930.87,3.45,3.1,3.2,146036.42,4.1,4.1,3.99,83647.75
+Copa America,1465498800,Jun 8 2016 - 7:30pm,complete,Camping World Stadium,Brazil,Haiti,1.2,1.11,1.13,1105090.18,8.6,12.5,11.54,27121.19,50,50,41.06,8638.54
+Copa America,1465500600,Jun 7 2016 - 7:30pm,complete,Rose Bowl,Colombia,Paraguay,1.92,1.9,1.96,343357.11,4.1,3.4,3.37,64711.83,5.4,5.4,5.13,52489.09
+UEFA Euro,1465585200,Jun 10 2016 - 7:00pm,complete,Stade de France,France,Romania,1.11,1.38,1.38,2512028.47,5,5.2,5.15,235643.1,12,12,12.73,129250.27
+Copa America,1465585200,Jun 8 2016 - 7:00pm,complete,State Farm Stadium,Ecuador,Peru,1.94,1.82,1.84,262857.86,3.25,3.7,3.69,84818.8,5.6,5.6,5.47,53123.07
+Copa America,1465590600,Jun 9 2016 - 7:30pm,complete,Lincoln Financial Field,Uruguay,Venezuela,1.4,1.69,1.71,621659.07,3.75,4,3.94,72594.84,6.4,6.4,6.02,63750.97
+UEFA Euro,1465650000,Jun 11 2016 - 1:00pm,complete,Stade Bollaert-Delelis,Albania,Switzerland,5.4,5.5,5.53,163386.08,3.45,3.3,3.35,225296.55,1.95,1.95,1.93,927685.71
+UEFA Euro,1465660800,Jun 11 2016 - 4:00pm,complete,Stade Matmut-Atlantique,Wales,Slovakia,2.24,3.15,3.09,397572.16,3.05,3.05,3.06,253531.92,2.78,2.78,2.87,429976.06
+UEFA Euro,1465671600,Jun 11 2016 - 7:00pm,complete,Stade VÃ©lodrome (Marseille),England,Russia,2.2,1.01,1.85,4153047.28,3.15,3.65,3.58,401143.64,1000,1000,5.54,311040.23
+Copa America,1465671600,Jun 9 2016 - 7:00pm,complete,Rose Bowl,Mexico,Jamaica,1.37,1.33,1.28,382954.38,5.2,6.4,6.49,20896.17,11.5,11.5,14.1,20574.15
+Copa America,1465675200,Jun 10 2016 - 7:00pm,complete,Gillette Stadium,Chile,Bolivia,1.22,1.17,1.19,414104.99,6.4,9,8.58,7921.75,25,25,22.3,5663.3
+UEFA Euro,1465736400,Jun 12 2016 - 1:00pm,complete,Parc des Princes,Turkey,Croatia,1.03,4.3,4.34,189019.27,3.45,3.4,3.42,215315.34,2.12,2.12,2.09,824320.3
+UEFA Euro,1465747200,Jun 12 2016 - 4:00pm,complete,Allianz Riviera,Poland,Northern Ireland,2.32,1.85,1.8,1768279.74,3.2,3.45,3.54,236726.55,6.2,6.2,6.28,200773.01
+Copa America,1465756200,Jun 10 2016 - 8:30pm,complete,Soldier Field,Argentina,Panama,1.22,1.31,1.28,584020.78,7.4,5.9,6.35,37006.13,15.5,15.5,16.04,15305.49
+UEFA Euro,1465758000,Jun 12 2016 - 7:00pm,complete,Stade Pierre-Mauroy,Germany,Ukraine,1.64,1.55,1.55,3902621.01,4.6,4.4,4.35,246875.45,7.8,7.8,7.84,205997.51
+Copa America,1465763400,Jun 11 2016 - 7:00pm,complete,Lincoln Financial Field,USA,Paraguay,2.06,2.08,2.07,180584.71,3.2,3.55,3.61,37913.8,4.3,4.3,4.19,39722.06
+UEFA Euro,1465822800,Jun 13 2016 - 1:00pm,complete,Stadium Municipal (Toulouse),Spain,Czech Republic,1.58,1.01,1.46,2305404.68,4,1000,4.68,182422.49,1000,1000,9.73,116754.04
+UEFA Euro,1465833600,Jun 13 2016 - 4:00pm,complete,Stade de France,Republic of Ireland,Sweden,3.2,3.8,3.9,300083.59,3.25,3.15,3.15,190750.05,2.38,2.38,2.36,876722.83
+UEFA Euro,1465844400,Jun 13 2016 - 7:00pm,complete,Groupama Stadium,Belgium,Italy,2.4,2.82,2.77,752892.75,3.35,3.1,3.09,238623.9,3.1,3.1,3.18,467777.56
+Copa America,1465844400,Jun 11 2016 - 8:00pm,complete,NRG Stadium,Colombia,Costa Rica,1.9,1.7,1.66,299234.65,3.45,3.85,4.05,27020.62,6.6,6.6,6.59,28542.18
+Copa America,1465844400,Jun 12 2016 - 6:30pm,complete,MetLife Stadium,Ecuador,Haiti,1.35,1.12,1.12,543566.86,5.1,13,13.01,8368.4,38,38,34.64,3697.09
+UEFA Euro,1465920000,Jun 14 2016 - 4:00pm,complete,Stade Matmut-Atlantique,Austria,Hungary,1.83,1.68,1.75,1072787.68,4,3.75,3.7,154607.54,7.4,7.4,6.26,107280.85
+UEFA Euro,1465930800,Jun 14 2016 - 7:00pm,complete,Stade Geoffroy-Guichard,Portugal,Iceland,1.8,1.44,1.46,3712735.13,3.45,4.8,4.64,259692.85,9.4,9.4,9.86,182107.83
+Copa America,1465930800,Jun 13 2016 - 7:00pm,complete,NRG Stadium,Mexico,Venezuela,1.6,1.7,1.66,246060.63,4.2,3.9,4.11,48540.96,6.4,6.4,6.58,33396.58
+Copa America,1465934400,Jun 12 2016 - 8:30pm,complete,Gillette Stadium,Brazil,Peru,1.53,1.41,1.42,347047.01,3.9,5.2,5.09,24216,10.5,10.5,9.6,24012.29
+UEFA Euro,1465995600,Jun 15 2016 - 1:00pm,complete,Stade Pierre-Mauroy,Russia,Slovakia,1.74,2.56,2.45,685263.2,4.8,3.2,3.27,252415.14,3.4,3.4,3.51,247200.76
+UEFA Euro,1466006400,Jun 15 2016 - 4:00pm,complete,Parc des Princes,Romania,Switzerland,5.1,3.65,3.54,315263.04,3.35,3.2,3.17,256436.97,2.42,2.42,2.48,920381.5
+UEFA Euro,1466017200,Jun 15 2016 - 7:00pm,complete,Stade VÃ©lodrome (Marseille),France,Albania,1.17,1.26,1.27,3694370.06,5.9,6.4,6.37,193814.32,19.5,19.5,18.44,101570.19
+UEFA Euro,1466082000,Jun 16 2016 - 1:00pm,complete,Stade Bollaert-Delelis,England,Wales,1.82,1.72,1.65,3504234.08,3.4,3.9,4,505587.42,6,6,6.74,295708.84
+UEFA Euro,1466092800,Jun 16 2016 - 4:00pm,complete,Groupama Stadium,Ukraine,Northern Ireland,2.02,1.79,1.77,1607995.68,3.95,3.45,3.57,227383.46,6.6,6.6,6.69,141193.32
+Copa America,1466101800,Jun 13 2016 - 7:00pm,complete,Levi's Stadium,Uruguay,Jamaica,1.41,1.51,1.54,139327.09,5.8,4.6,4.62,16427.83,8,8,7.42,13221.03
+UEFA Euro,1466103600,Jun 16 2016 - 7:00pm,complete,Stade de France,Germany,Poland,1.62,1.66,1.62,1645831.5,3.95,4,4.24,177797.68,6.6,6.6,6.82,155525.47
+UEFA Euro,1466168400,Jun 17 2016 - 1:00pm,complete,Stadium Municipal (Toulouse),Italy,Sweden,1.91,2.1,2.03,1199224.64,3.4,3.15,3.18,400922.86,4.9,4.9,5.11,250665.48
+UEFA Euro,1466179200,Jun 17 2016 - 4:00pm,complete,Stade Geoffroy-Guichard,Czech Republic,Croatia,3.6,4.7,4.72,226683.04,3.4,3.15,3.23,252029.87,2.12,2.12,2.08,1449514.76
+UEFA Euro,1466190000,Jun 17 2016 - 7:00pm,complete,Allianz Riviera,Spain,Turkey,1.61,1.49,1.52,2092936.74,4.2,4.3,4.27,207576.15,10,10,9.52,125076.25
+Copa America,1466193600,Jun 14 2016 - 8:00pm,complete,Lincoln Financial Field,Chile,Panama,1.34,1.36,1.35,203308.56,5.3,5.6,5.52,17420.05,12,12,12.38,11992.12
+UEFA Euro,1466254800,Jun 18 2016 - 1:00pm,complete,Stade Matmut-Atlantique,Belgium,Republic of Ireland,1.64,1.91,1.89,1625185.59,3.7,3.45,3.5,227398.98,5.3,5.3,5.43,220227.93
+UEFA Euro,1466265600,Jun 18 2016 - 4:00pm,complete,Stade VÃ©lodrome (Marseille),Iceland,Hungary,2.34,2.66,2.75,540068.01,3.65,3.15,3.11,283330.52,3.25,3.25,3.16,280494.08
+UEFA Euro,1466276400,Jun 18 2016 - 7:00pm,complete,Parc des Princes,Portugal,Austria,2.26,1.78,1.8,3316584.14,3.4,3.75,3.73,298170.76,5.8,5.8,5.62,270299.06
+Copa America,1466276400,Jun 14 2016 - 7:00pm,complete,CenturyLink Field,Argentina,Bolivia,1.1,1.19,1.21,324358.3,8.2,8.8,7.99,12008.63,24,24,20.52,4358.94
+Copa America,1466276400,Jun 16 2016 - 6:30pm,complete,CenturyLink Field,USA,Ecuador,2.68,2.98,2.93,70579.8,3.25,3.3,3.23,43583.87,2.8,2.8,2.83,87258.36
+UEFA Euro,1466362800,Jun 19 2016 - 7:00pm,complete,Groupama Stadium,Romania,Albania,2.34,1.01,2.15,844632.32,3.4,1000,3.6,206483.73,3.95,3.95,3.86,195812.01
+UEFA Euro,1466362800,Jun 19 2016 - 7:00pm,complete,Stade Pierre-Mauroy,Switzerland,France,5.6,6,6.4,203873.03,3.5,2.96,3.05,450487.52,2,2,1.95,1709769.42
+UEFA Euro,1466449200,Jun 20 2016 - 7:00pm,complete,Stade Geoffroy-Guichard,Slovakia,England,5,6.4,5.98,324532.06,3.6,3.35,3.35,456994.79,1.84,1.84,1.88,3314520.63
+UEFA Euro,1466449200,Jun 20 2016 - 7:00pm,complete,Stadium Municipal (Toulouse),Russia,Wales,2.22,2.76,2.75,539437.05,3.25,3.1,3.2,454490.42,3.15,3.15,3.11,276493.75
+UEFA Euro,1466524800,Jun 21 2016 - 4:00pm,complete,Stade VÃ©lodrome (Marseille),Ukraine,Poland,2.68,4.8,4.9,169146.16,3.3,3.25,3.38,162893.26,2.1,2.1,2,1167596.55
+UEFA Euro,1466524800,Jun 21 2016 - 4:00pm,complete,Parc des Princes,Northern Ireland,Germany,9.8,17,15.87,88712.76,9,4.9,5.29,215309.67,1.36,1.36,1.34,2405226.75
+UEFA Euro,1466535600,Jun 21 2016 - 7:00pm,complete,Stade Matmut-Atlantique,Croatia,Spain,3.75,5.9,5.33,200121.12,3.85,3.15,3.11,284012.53,1.96,1.96,2.02,1411637.9
+UEFA Euro,1466535600,Jun 21 2016 - 7:00pm,complete,Stade Bollaert-Delelis,Czech Republic,Turkey,2.74,2.5,2.42,421533.73,3.3,3.7,3.64,146527.42,3.05,3.05,3.16,267319.93
+Copa America,1466539200,Jun 17 2016 - 8:00pm,complete,MetLife Stadium,Peru,Colombia,5.9,6.8,6.93,23708.89,3.9,3.95,3.95,26613.49,1.66,1.66,1.65,246388.81
+Copa America,#REF!,Jun 22 2016 - 7:00pm,complete,Soldier Field,Colombia,Chile,2.9,3.25,3.24,71412.87,3.2,3.3,3.31,61368.73,2.58,2.58,2.58,195115.83
+UEFA Euro,1466611200,Jun 22 2016 - 4:00pm,complete,Groupama Stadium,Hungary,Portugal,5.9,10,11.27,180598.44,4,4.3,4.17,357470.36,1.49,1.49,1.5,2013967.19
+UEFA Euro,1466611200,Jun 22 2016 - 4:00pm,complete,Stade de France,Iceland,Austria,3.8,3.85,3.81,209147.23,3.5,3.3,3.34,227202.8,2.26,2.26,2.27,463879.91
+UEFA Euro,1466622000,Jun 22 2016 - 7:00pm,complete,Stade Pierre-Mauroy,Italy,Republic of Ireland,1.62,2.38,2.42,775066.86,3.6,3.15,3.22,224321.09,3.8,3.8,3.63,325803.5
+UEFA Euro,1466622000,Jun 22 2016 - 7:00pm,complete,Allianz Riviera,Sweden,Belgium,3.8,5.3,5.34,219151.17,3.2,3.4,3.45,196047.03,1.93,1.93,1.92,1440398.47
+Copa America,1466622000,Jun 18 2016 - 7:00pm,complete,Gillette Stadium,Argentina,Venezuela,1.3,1.23,1.25,529179.97,5.7,7,6.69,22819.22,21,21,19.93,7622.38
+Copa America,#REF!,Jun 25 2016 - 5:00pm,complete,State Farm Stadium,USA,Colombia,2.38,3.55,3.48,49968.28,2.98,3.3,3.22,46845.41,2.42,2.42,2.49,113492.94
+UEFA Euro,1466859600,Jun 25 2016 - 1:00pm,complete,Stade Geoffroy-Guichard,Switzerland,Poland,3.2,3.15,3.24,428165.44,3,2.92,2.97,300359.57,2.92,2.92,2.82,627249.13
+UEFA Euro,1466870400,Jun 25 2016 - 4:00pm,complete,Parc des Princes,Wales,Northern Ireland,1.92,2.06,2.09,1698995.9,3.2,3.05,3.04,380095.97,5.5,5.5,5.19,360661.4
+Copa America,1466874000,Jun 18 2016 - 7:00pm,complete,Levi's Stadium,Mexico,Chile,2.7,2.74,2.65,104748.81,3.05,3.1,3.23,60521.47,3.25,3.25,3.17,48395.17
+UEFA Euro,1466881200,Jun 25 2016 - 7:00pm,complete,Stade Bollaert-Delelis,Croatia,Portugal,2,2.9,2.87,841450.38,4.1,3.05,3.09,284506.35,3.05,3.05,3.03,580405.98
+Copa America,#REF!,Jun 26 2016 - 8:00pm,complete,MetLife Stadium,Argentina,Chile,1.9,2.32,2.3,351930.87,3.45,3.1,3.2,146036.42,4.1,4.1,3.99,83647.75
+UEFA Euro,1466946000,Jun 26 2016 - 1:00pm,complete,Groupama Stadium,France,Republic of Ireland,1.05,1.56,1.54,1917341.42,7,3.8,3.99,206668.44,10,10,10.44,122143.68
+UEFA Euro,1466956800,Jun 26 2016 - 4:00pm,complete,Stade Pierre-Mauroy,Germany,Slovakia,1.46,1.44,1.47,3012265.83,4.6,4.5,4.34,165292.77,13,13,11.39,96344.03
+UEFA Euro,1466967600,Jun 26 2016 - 7:00pm,complete,Stadium Municipal (Toulouse),Hungary,Belgium,7.4,8,7.37,263802.4,3.2,3.65,3.6,263573.06,1.65,1.65,1.7,2410624.77
+Copa America,1466971200,Jun 21 2016 - 8:00pm,complete,NRG Stadium,USA,Argentina,11,9.6,9.46,43709.86,4.6,4.9,4.79,33092.89,1.45,1.45,1.46,456578.18
+UEFA Euro,1467043200,Jun 27 2016 - 4:00pm,complete,Stade de France,Italy,Spain,4.4,4.8,4.69,257154.6,3.3,2.92,3,452168.22,2.22,2.22,2.21,1136673.86
+UEFA Euro,1467054000,Jun 27 2016 - 7:00pm,complete,Allianz Riviera,England,Iceland,1.72,1.46,1.5,4360489.28,3.7,4.4,4.25,288154.55,10.5,10.5,10.08,194037.89
+UEFA Euro,1467313200,Jun 30 2016 - 7:00pm,complete,Stade VÃ©lodrome (Marseille),Poland,Portugal,2.4,3.8,3.94,576560.92,2.92,2.9,3.01,694522.93,2.52,2.52,2.41,1648391.64
+UEFA Euro,1467399600,Jul 01 2016 - 7:00pm,complete,Stade Pierre-Mauroy,Wales,Belgium,5.7,5.1,5.41,520896.65,3.5,3.45,3.53,550070.32,1.93,1.93,1.88,2915117.91
+UEFA Euro,1467486000,Jul 02 2016 - 7:00pm,complete,Stade Matmut-Atlantique,Germany,Italy,2.02,2.3,2.34,1895402.93,3.2,3.2,3.1,456318.82,3.95,3.95,4.01,652253.4
+UEFA Euro,1467572400,Jul 03 2016 - 7:00pm,complete,Stade de France,France,Iceland,1.45,1.43,1.45,3863183.92,4.6,5.1,4.99,349048.86,9.6,9.6,9.12,378540.58
+UEFA Euro,1467831600,Jul 06 2016 - 7:00pm,complete,Groupama Stadium,Portugal,Wales,2.16,2.2,2.19,2995594.26,3.2,3.15,3.19,921023.5,4.4,4.4,4.34,1136171.25
+UEFA Euro,1467918000,Jul 07 2016 - 7:00pm,complete,Stade VÃ©lodrome (Marseille),Germany,France,2.98,3.15,3.1,1117800.07,3.15,3.1,3.07,982563.92,2.8,2.8,2.83,1411774.58
+UEFA Euro,1468177200,Jul 10 2016 - 7:00pm,complete,Stade de France,Portugal,France,4.1,5.1,4.6,851240.88,3.05,3.3,3.15,717524.24,1.7,2.24,2.15,3365399.49
+FIFA World Cup,1528988400,Jun 14 2018 - 3:00pm,complete,Stadion Luzhniki (Moskva),Russia,Saudi Arabia,1.25,1.48,1.48,2176338.73,4.9,4.5,4.48,309822.04,9.6,9.6,10.04,233361.73
+FIFA World Cup,1529064000,Jun 15 2018 - 12:00pm,complete,Ekaterinburg Arena,Egypt,Uruguay,5,9.6,8.73,275312.38,3.45,4.3,4.19,358751.51,1.52,1.52,1.55,2605795.08
+FIFA World Cup,1529074800,Jun 15 2018 - 3:00pm,complete,Saint-Petersburg Stadium,Morocco,Iran,2.54,2.22,2.3,1371709.34,3.2,3.1,3.03,408933.97,4.4,4.4,4.26,289492.3
+FIFA World Cup,1529085600,Jun 15 2018 - 6:00pm,complete,Olimpiyskiy Stadion Fisht (Sochi),Portugal,Spain,2,4.5,4.48,414463.93,2.7,3.35,3.35,543612.14,2.1,2.1,2.09,2252341.54
+FIFA World Cup,1529143200,Jun 16 2018 - 10:00am,complete,Kazan' Arena,France,Australia,1.4,1.28,1.28,3325670.17,5.9,7.2,7.4,249799.42,12,12,11.82,1093838.03
+FIFA World Cup,1529154000,Jun 16 2018 - 1:00pm,complete,Otkrytiye Arena,Argentina,Iceland,3.3,1.34,1.35,2559631.64,4.4,5.7,5.52,237009.64,13,13,12.67,109503.23
+FIFA World Cup,1529164800,Jun 16 2018 - 4:00pm,complete,Mordovia Arena,Peru,Denmark,3.4,3.85,3.72,374288.94,3.5,3.15,3.18,452533.95,2.36,2.36,2.4,775681.45
+FIFA World Cup,1529175600,Jun 16 2018 - 7:00pm,complete,Kaliningrad Stadium (Kaliningrad),Croatia,Nigeria,2.12,1.7,1.73,1667814.11,3.5,3.85,3.8,181671.65,6.4,6.4,6.34,187932.66
+FIFA World Cup,1529236800,Jun 17 2018 - 12:00pm,complete,Samara Arena,Costa Rica,Serbia,2.3,5.6,5.44,275176.11,3.1,3.45,3.4,299629.62,1.87,1.87,1.91,2330386.93
+FIFA World Cup,1529247600,Jun 17 2018 - 3:00pm,complete,Stadion Luzhniki (Moskva),Germany,Mexico,1.5,1.53,1.49,3251209.93,4.6,4.8,4.77,381154.58,7.4,7.4,8.34,462917.46
+FIFA World Cup,1529258400,Jun 17 2018 - 6:00pm,complete,Rostov Arena,Brazil,Switzerland,1.41,1.48,1.46,5844392.9,5.3,4.5,4.62,422280.12,9,9,9.81,329130.74
+FIFA World Cup,1529323200,Jun 18 2018 - 12:00pm,complete,Stadion Nizhny Novgorod,Sweden,South Korea,2,2.32,2.24,1333190.62,3.15,3.1,3.15,324666.49,4.1,4.1,4.27,336858.88
+FIFA World Cup,1529334000,Jun 18 2018 - 3:00pm,complete,Olimpiyskiy Stadion Fisht (Sochi),Belgium,Panama,1.24,1.22,1.22,4301455.25,7.6,7.4,7.49,240773.61,23,23,22.09,120818.25
+FIFA World Cup,1529344800,Jun 18 2018 - 6:00pm,complete,Volgograd Arena,Tunisia,England,10,9.4,9.79,320474.13,5.3,4.4,4.46,483282.65,1.51,1.51,1.48,4345771.29
+FIFA World Cup,1529409600,Jun 19 2018 - 12:00pm,complete,Mordovia Arena,Colombia,Japan,1.74,1.93,1.86,2076616.9,3.5,3.35,3.52,408050.6,5.5,5.5,5.73,281580.86
+FIFA World Cup,1529420400,Jun 19 2018 - 3:00pm,complete,Otkrytiye Arena,Poland,Senegal,2.46,2.5,2.5,1158615.19,3.15,3.15,3.17,337554.44,3.5,3.5,3.52,413887.92
+FIFA World Cup,1529431200,Jun 19 2018 - 6:00pm,complete,Saint-Petersburg Stadium,Russia,Egypt,1.99,1.99,2.05,2068353.79,3.3,3.7,3.5,407854.91,4.4,4.4,4.44,461032.53
+FIFA World Cup,1529496000,Jun 20 2018 - 12:00pm,complete,Stadion Luzhniki (Moskva),Portugal,Morocco,1.49,1.73,1.7,2699292.36,3.75,3.85,3.8,473326.84,6.2,6.2,6.68,427202.56
+FIFA World Cup,1529506800,Jun 20 2018 - 3:00pm,complete,Rostov Arena,Uruguay,Saudi Arabia,1.29,1.24,1.23,3359149.9,7.2,7.2,7.48,203515.2,19,19,20.3,122548.55
+FIFA World Cup,1529517600,Jun 20 2018 - 6:00pm,complete,Kazan' Arena,Iran,Spain,19.5,27,22.85,117228.84,5.8,7.8,7.13,177109.31,1.21,1.21,1.22,4507448.09
+FIFA World Cup,1529582400,Jun 21 2018 - 12:00pm,complete,Samara Arena,Denmark,Australia,1.95,1.95,2.03,1772582.81,3.45,3.6,3.46,500446.8,4.7,4.7,4.63,685449.73
+FIFA World Cup,1529593200,Jun 21 2018 - 3:00pm,complete,Ekaterinburg Arena,France,Peru,1.4,1.64,1.65,2284782.91,5.2,3.95,4.02,436858.47,7,7,7.01,243731.61
+FIFA World Cup,1529604000,Jun 21 2018 - 6:00pm,complete,Stadion Nizhny Novgorod,Argentina,Croatia,1.91,2.12,2.15,2005258.39,3.2,3.3,3.37,463954.49,4.2,4.2,4.21,393704.97
+FIFA World Cup,1529668800,Jun 22 2018 - 12:00pm,complete,Saint-Petersburg Stadium,Brazil,Costa Rica,1.27,1.22,1.24,4017750.59,5.3,7.4,6.97,185791.32,22,22,21.52,108527.77
+FIFA World Cup,1529679600,Jun 22 2018 - 3:00pm,complete,Volgograd Arena,Nigeria,Iceland,3.3,3,3.06,833413.15,3.05,3.2,3.19,418976.5,2.82,2.82,2.78,968878.78
+FIFA World Cup,1529690400,Jun 22 2018 - 6:00pm,complete,Kaliningrad Stadium (Kaliningrad),Serbia,Switzerland,3.15,2.76,2.83,708155.45,3,3.2,3.11,287694.22,3.1,3.1,3.08,446258.56
+FIFA World Cup,1529755200,Jun 23 2018 - 12:00pm,complete,Otkrytiye Arena,Belgium,Tunisia,1.35,1.35,1.37,2658486.15,4.9,5.4,5.27,209040.47,13.5,13.5,12.53,123517.8
+FIFA World Cup,1529766000,Jun 23 2018 - 3:00pm,complete,Rostov Arena,South Korea,Mexico,4.8,5.7,6.03,379247.38,3.35,4,3.82,311124.23,1.75,1.75,1.74,1940855.01
+FIFA World Cup,1529776800,Jun 23 2018 - 6:00pm,complete,Olimpiyskiy Stadion Fisht (Sochi),Germany,Sweden,1.64,1.49,1.54,3950542.19,4.1,4.8,4.63,289217.97,8.4,8.4,7.46,239088.35
+FIFA World Cup,1529841600,Jun 24 2018 - 12:00pm,complete,Stadion Nizhny Novgorod,England,Panama,1.29,1.24,1.24,3586093.91,4.9,6.8,6.74,329192.03,23,23,20.6,145463.68
+FIFA World Cup,1529852400,Jun 24 2018 - 3:00pm,complete,Ekaterinburg Arena,Japan,Senegal,3.55,3.3,3.33,677565.08,3.05,2.98,3.12,655257.08,2.74,2.74,2.65,1229822.06
+FIFA World Cup,1529863200,Jun 24 2018 - 6:00pm,complete,Kazan' Arena,Poland,Colombia,2.78,3.8,3.65,720786.01,3,3.35,3.54,567927.39,2.28,2.28,2.25,1901198.25
+FIFA World Cup,1529935200,Jun 25 2018 - 2:00pm,complete,Samara Arena,Uruguay,Russia,2.66,2.74,2.81,624710.04,3,3.15,3.12,360225.63,3.1,3.1,3.06,494409.68
+FIFA World Cup,1529935200,Jun 25 2018 - 2:00pm,complete,Volgograd Arena,Saudi Arabia,Egypt,5.3,5.7,5.15,178796.82,3.5,3.75,3.68,172436.43,1.79,1.79,1.88,1209565.78
+FIFA World Cup,1529949600,Jun 25 2018 - 6:00pm,complete,Mordovia Arena,Iran,Portugal,9.2,6.4,6.51,377824.53,4.5,4.1,4,264393.74,1.64,1.64,1.67,1652149.73
+FIFA World Cup,1529949600,Jun 25 2018 - 6:00pm,complete,Kaliningrad Stadium (Kaliningrad),Spain,Morocco,1.34,1.38,1.4,3697549.79,4.6,5.5,5.22,265735.94,10.5,10.5,10.79,237596.98
+FIFA World Cup,1530021600,Jun 26 2018 - 2:00pm,complete,Stadion Luzhniki (Moskva),Denmark,France,6,5.8,5.43,236641.93,3.85,2.8,2.83,498169.81,2.12,2.12,2.16,972777.62
+FIFA World Cup,1530021600,Jun 26 2018 - 2:00pm,complete,Olimpiyskiy Stadion Fisht (Sochi),Australia,Peru,3.45,3.05,3.1,591113.01,3.2,3.7,3.64,253019.31,2.48,2.48,2.5,1077063.75
+FIFA World Cup,1530036000,Jun 26 2018 - 6:00pm,complete,Saint-Petersburg Stadium,Nigeria,Argentina,5.8,6.2,6.51,509687.6,3.75,5.5,5.17,294259.69,1.53,1.53,1.53,4245265.94
+FIFA World Cup,1530036000,Jun 26 2018 - 6:00pm,complete,Rostov Arena,Iceland,Croatia,4.6,4.5,4.18,417833.55,3.35,4.1,3.85,266497.34,1.84,1.84,1.97,1772337.7
+FIFA World Cup,1530108000,Jun 27 2018 - 2:00pm,complete,Kazan' Arena,South Korea,Germany,12,21,20.61,81398.74,5.8,10,8.58,143618.48,1.17,1.17,1.2,3258774.61
+FIFA World Cup,1530108000,Jun 27 2018 - 2:00pm,complete,Ekaterinburg Arena,Mexico,Sweden,2.68,2.26,2.37,752780.56,3.05,3.4,3.24,334782.99,3.75,3.75,3.52,371683
+FIFA World Cup,1530122400,Jun 27 2018 - 6:00pm,complete,Otkrytiye Arena,Serbia,Brazil,7.6,8.2,7.7,305011.64,4.6,4.8,4.59,189508.43,1.5,1.5,1.53,3184004.73
+FIFA World Cup,1530122400,Jun 27 2018 - 6:00pm,complete,Stadion Nizhny Novgorod,Switzerland,Costa Rica,1.84,1.64,1.65,896105.12,3.35,3.75,3.76,182548.84,7.8,7.8,7.91,100321.77
+FIFA World Cup,1530194400,Jun 28 2018 - 2:00pm,complete,Volgograd Arena,Japan,Poland,4.5,3.1,2.91,428687.8,3.4,3.2,3.22,241003.59,2.74,2.74,2.85,505770.87
+FIFA World Cup,1530194400,Jun 28 2018 - 2:00pm,complete,Samara Arena,Senegal,Colombia,4,5.5,5.17,224291.63,3.2,3.95,3.81,175118.91,1.76,1.76,1.84,1563151.08
+FIFA World Cup,1530208800,Jun 28 2018 - 6:00pm,complete,Kaliningrad Stadium (Kaliningrad),England,Belgium,3.05,2.5,2.63,2470596.25,3.05,2.9,3.01,1239232.3,3.95,3.95,3.48,1183327
+FIFA World Cup,1530208800,Jun 28 2018 - 6:00pm,complete,Mordovia Arena,Panama,Tunisia,2.98,4.5,4.67,206898.12,2.98,3.75,3.84,135357.9,1.95,1.95,1.92,1000787.43
+FIFA World Cup,1530367200,Jun 30 2018 - 2:00pm,complete,Kazan' Arena,France,Argentina,1.91,2.52,2.48,1803647.76,3.6,3.2,3.17,508482.62,3.4,3.4,3.55,881683.95
+FIFA World Cup,1530381600,Jun 30 2018 - 6:00pm,complete,Olimpiyskiy Stadion Fisht (Sochi),Uruguay,Portugal,2.9,3.15,3.07,1653796.15,3.15,3.05,3.05,1152331.43,2.74,2.74,2.86,2013680.24
+FIFA World Cup,1530453600,Jul 01 2018 - 2:00pm,complete,Stadion Luzhniki (Moskva),Spain,Russia,1.61,1.65,1.62,3735506.57,3.85,4.1,4.18,384071.46,6.8,6.8,7.02,445281.16
+FIFA World Cup,1530468000,Jul 01 2018 - 6:00pm,complete,Stadion Nizhny Novgorod,Croatia,Denmark,1.89,2.06,1.99,3470820.08,3.5,3.25,3.31,825551.85,4.8,4.8,5.13,645375.39
+FIFA World Cup,1530540000,Jul 02 2018 - 2:00pm,complete,Samara Arena,Brazil,Mexico,1.54,1.5,1.52,2889361.61,4.4,4.6,4.52,274373.11,8.6,8.6,8.15,301835.88
+FIFA World Cup,1530554400,Jul 02 2018 - 6:00pm,complete,Rostov Arena,Belgium,Japan,1.38,1.45,1.42,3686239.71,5,4.8,5.03,434917.11,9.4,9.4,10.36,272155.62
+FIFA World Cup,1530626400,Jul 03 2018 - 2:00pm,complete,Saint-Petersburg Stadium,Sweden,Switzerland,3,3.55,3.38,477500.44,3.2,3,3.01,342550.64,2.56,2.56,2.67,954350.07
+FIFA World Cup,1530640800,Jul 03 2018 - 6:00pm,complete,Otkrytiye Arena,Colombia,England,3.7,4.2,4.22,714338.9,3.45,3.15,3.22,583184.19,2.24,2.24,2.21,3188353.83
+FIFA World Cup,1530885600,Jul 06 2018 - 2:00pm,complete,Stadion Nizhny Novgorod,Uruguay,France,3.7,5.1,4.78,556503.77,3.15,3.2,3.2,793054.47,2.04,2.04,2.09,1983060.85
+FIFA World Cup,1530900000,Jul 06 2018 - 6:00pm,complete,Kazan' Arena,Brazil,Belgium,2,2.18,2.17,4329529.74,3.25,3.65,3.51,665338.08,3.75,3.75,3.93,798364.79
+FIFA World Cup,1530972000,Jul 07 2018 - 2:00pm,complete,Samara Arena,Sweden,England,5,5.4,5.18,600962.26,3.2,3.5,3.41,572219.7,1.89,1.89,1.94,3215508.48
+FIFA World Cup,1530986400,Jul 07 2018 - 6:00pm,complete,Olimpiyskiy Stadion Fisht (Sochi),Russia,Croatia,4,4.1,4.36,565129.95,3.15,3.15,3.23,688347.54,2.24,2.24,2.19,3216109.48
+FIFA World Cup,1531245600,Jul 10 2018 - 6:00pm,complete,Saint-Petersburg Stadium,France,Belgium,2.5,2.7,2.63,1897606.15,3.35,3.15,3.29,1153941.89,3.15,3.15,3.17,900546.75
+FIFA World Cup,1531332000,Jul 11 2018 - 6:00pm,complete,Stadion Luzhniki (Moskva),Croatia,England,3.55,4.1,3.98,1159329.18,3,3.05,3.15,1047129.59,2.32,2.32,2.33,3725221.28
+FIFA World Cup,1531576800,Jul 14 2018 - 2:00pm,complete,Saint-Petersburg Stadium,Belgium,England,2.2,2.22,2.29,1361248.44,3.85,4,3.87,462701.83,3.25,3.25,3.27,719039.21
+FIFA World Cup,1531666800,Jul 15 2018 - 3:00pm,complete,Stadion Luzhniki (Moskva),France,Croatia,1.92,2.22,2.08,5869013.79,3.6,3.05,3.27,2112907.33,4.3,4.3,4.68,1444595.15
+Copa America,1560558600,Jun 15 2019 - 12:30am,complete,EstÃ¡dio CÃ­cero Pompeu de Toledo (Morumbi) (SÃ£o Paulo- SÃ£o Paulo),Brazil,Bolivia,1.09,1.06,1.07,343952.41,13,21,19.58,9718.05,90,90,82.09,2566.84
+Copa America,1560625200,Jun 15 2019 - 7:00pm,complete,Arena do GrÃªmio (Porto Alegre- Rio Grande do Sul),Venezuela,Peru,3.6,4.4,3.82,35144.21,2.9,3.25,3.2,58646.99,2.16,2.16,2.34,128497.43
+Copa America,1560636000,Jun 15 2019 - 10:00pm,complete,Arena Fonte Nova (Salvador- Bahia),Argentina,Colombia,2.16,2.2,2.24,399686.22,3.45,3.25,3.32,113676.41,4.2,4.2,3.95,84189.45
+Copa America,1560711600,Jun 16 2019 - 7:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Paraguay,Qatar,1.75,1.99,1.97,358272.33,3.8,3.7,3.52,75655.98,4.5,4.5,4.83,80768.91
+Copa America,1560722400,Jun 16 2019 - 10:00pm,complete,EstÃ¡dio Governador MagalhÃ£es Pinto (Belo Horizonte- Minas Gerais),Uruguay,Ecuador,1.8,1.92,1.89,473679.57,3.6,3.4,3.44,101753.64,5.6,5.6,5.71,55161.8
+Copa America,1560812400,Jun 17 2019 - 11:00pm,complete,EstÃ¡dio CÃ­cero Pompeu de Toledo (Morumbi) (SÃ£o Paulo- SÃ£o Paulo),Japan,Chile,10.5,9.2,8.64,35808.95,5,5.4,4.84,57987.1,1.41,1.41,1.47,644151.04
+Copa America,1560893400,Jun 18 2019 - 9:30pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Bolivia,Peru,8,9.6,9.43,19410.49,4.4,4.7,4.76,36612.02,1.46,1.46,1.46,386834.88
+Copa America,1560904200,Jun 19 2019 - 12:30am,complete,Arena Fonte Nova (Salvador- Bahia),Brazil,Venezuela,1.15,1.15,1.16,272960.85,9,9.2,9.5,5687.68,40,40,34.25,3779.6
+Copa America,1560979800,Jun 19 2019 - 9:30pm,complete,EstÃ¡dio CÃ­cero Pompeu de Toledo (Morumbi) (SÃ£o Paulo- SÃ£o Paulo),Colombia,Qatar,1.35,1.35,1.37,550637.12,5.2,5.5,5.35,34023.78,13,13,12.4,13124.99
+Copa America,1560990600,Jun 20 2019 - 12:30am,complete,EstÃ¡dio Governador MagalhÃ£es Pinto (Belo Horizonte- Minas Gerais),Argentina,Paraguay,1.5,1.48,1.48,406201.61,4.2,4.8,4.72,40421.78,8.4,8.4,8.85,17998.31
+Copa America,1561071600,Jun 20 2019 - 11:00pm,complete,Arena do GrÃªmio (Porto Alegre- Rio Grande do Sul),Uruguay,Japan,1.25,1.26,1.27,448019.5,7.4,6.6,6.6,24016.59,17,17,16.61,13142.28
+Copa America,1561158000,Jun 21 2019 - 11:00pm,complete,Arena Fonte Nova (Salvador- Bahia),Ecuador,Chile,4.5,4.8,4.59,37584.87,3.75,4,3.86,49791.65,1.84,1.84,1.9,471296.46
+Copa America,1561230000,Jun 22 2019 - 7:00pm,complete,EstÃ¡dio Governador MagalhÃ£es Pinto (Belo Horizonte- Minas Gerais),Bolivia,Venezuela,8,5.8,6.55,24127.89,4.3,4.3,4.43,38170.53,1.67,1.67,1.61,155395.78
+Copa America,1561230000,Jun 22 2019 - 7:00pm,complete,Arena Corinthians (SÃ£o Paulo- SÃ£o Paulo),Peru,Brazil,11.5,14,13.1,11063.27,7.2,5.9,5.56,24812.22,1.32,1.32,1.34,369310.16
+Copa America,1561316400,Jun 23 2019 - 7:00pm,complete,Arena do GrÃªmio (Porto Alegre- Rio Grande do Sul),Qatar,Argentina,13,20,16.23,14514.09,6.2,9,7.45,16177.62,1.19,1.19,1.23,500916.83
+Copa America,1561316400,Jun 23 2019 - 7:00pm,complete,Arena Fonte Nova (Salvador- Bahia),Colombia,Paraguay,1.62,2.34,2.52,335757.11,4.6,3.55,3.46,85008.49,3.45,3.45,3.12,100093.49
+Copa America,1561417200,Jun 24 2019 - 11:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Chile,Uruguay,3.95,3.65,3.59,51617.99,3.05,3.55,3.53,39185.87,2.26,2.26,2.28,111398.1
+Copa America,1561417200,Jun 24 2019 - 11:00pm,complete,EstÃ¡dio Governador MagalhÃ£es Pinto (Belo Horizonte- Minas Gerais),Ecuador,Japan,1.86,1.9,1.99,347943.38,3.4,4.7,4.39,55362.33,3.9,3.9,3.68,50371.89
+Copa America,1561681800,Jun 28 2019 - 12:30am,complete,Arena do GrÃªmio (Porto Alegre- Rio Grande do Sul),Brazil,Paraguay,1.21,1.2,1.2,456694.13,7,7.8,8.11,12108.83,21,21,22.6,9208.52
+Copa America,1561748400,Jun 28 2019 - 7:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Venezuela,Argentina,6.4,8,7.75,25093.34,4.7,4.8,4.35,50188.93,1.5,1.5,1.55,347589.73
+Copa America,1561764000,Jun 28 2019 - 11:20pm,complete,Arena Corinthians (SÃ£o Paulo- SÃ£o Paulo),Colombia,Chile,2.3,2.2,2.2,212838.91,3.2,3.35,3.35,59482.4,4.1,4.1,4.05,40345.24
+Copa America,1561834800,Jun 29 2019 - 7:00pm,complete,Arena Fonte Nova (Salvador- Bahia),Uruguay,Peru,1.8,1.81,1.79,656480.61,3.8,3.6,3.68,65450.6,5.9,5.9,6.03,52920.84
+Copa America,1562113800,Jul 03 2019 - 12:30am,complete,EstÃ¡dio Governador MagalhÃ£es Pinto (Belo Horizonte- Minas Gerais),Brazil,Argentina,1.96,1.84,1.85,524058.4,3.4,3.55,3.57,79937.41,5.7,5.7,5.46,83740.01
+Copa America,1562200200,Jul 04 2019 - 12:30am,complete,Arena do GrÃªmio (Porto Alegre- Rio Grande do Sul),Chile,Peru,1.98,1.82,1.88,547830.83,3.4,3.65,3.53,89788.07,5.6,5.6,5.3,62956.67
+Copa America,1562439600,Jul 06 2019 - 7:00pm,complete,Arena Corinthians (SÃ£o Paulo- SÃ£o Paulo),Argentina,Chile,1.79,2.04,1.97,286015.42,3.6,3.95,3.74,50691.62,4.1,5.3,4.41,57414.51
+Copa America,1562529600,Jul 07 2019 - 8:00pm,complete,Estadio Jornalista MÃ¡rio Filho (MaracanÃ£) (Rio de Janeiro- Rio de Janeiro),Brazil,Peru,1.29,1.39,1.31,773665.16,5.4,7,6.53,71895.07,10,14.5,11.91,166112.47

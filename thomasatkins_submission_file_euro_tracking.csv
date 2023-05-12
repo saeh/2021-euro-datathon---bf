@@ -1,0 +1,313 @@
+team1_name,team2_name,stage,p_team1_win,p_draw,p_team2_win
+Turkey,Italy,Group,0.1763554593,0.1602826234,0.6633619173
+Wales,Switzerland,Group,0.5931587516,0.172359787,0.2344814614
+Turkey,Wales,Group,0.4368040228,0.1686399158,0.3945560614
+Italy,Switzerland,Group,0.7133107364,0.1880695059,0.09861975777
+Switzerland,Turkey,Group,0.4030010772,0.2870409501,0.3099579726
+Italy,Wales,Group,0.7486540516,0.139830274,0.1115156744
+Denmark,Finland,Group,0.7099264304,0.1829528917,0.1071206779
+Belgium,Russia,Group,0.7395515395,0.1167460979,0.1437023626
+Finland,Russia,Group,0.2094358389,0.2184482313,0.5721159298
+Denmark,Belgium,Group,0.5065518036,0.3315499097,0.1618982867
+Russia,Denmark,Group,0.1800619115,0.3217194057,0.4982186829
+Finland,Belgium,Group,0.224668829,0.2521500271,0.5231811439
+Austria,North Macedonia,Group,0.4357945844,0.279644696,0.2845607197
+Netherlands,Ukraine,Group,0.6750459423,0.2146173516,0.110336706
+Ukraine,North Macedonia,Group,0.2994377751,0.1875903287,0.5129718962
+Netherlands,Austria,Group,0.3278662813,0.3158685432,0.3562651755
+North Macedonia,Netherlands,Group,0.1414542766,0.1287500092,0.7297957141
+Ukraine,Austria,Group,0.1922962402,0.1561342128,0.651569547
+England,Croatia,Group,0.7648297315,0.1087569383,0.1264133303
+Scotland,Czech Republic,Group,0.2787477264,0.2056447005,0.5156075731
+Croatia,Czech Republic,Group,0.3870996217,0.3440194989,0.2688808794
+England,Scotland,Group,0.7511813699,0.1167521363,0.1320664939
+Croatia,Scotland,Group,0.5183734535,0.2483791389,0.2332474076
+Czech Republic,England,Group,0.1133753805,0.2991986255,0.587425994
+Poland,Slovakia,Group,0.5627931793,0.2115293684,0.2256774522
+Spain,Sweden,Group,0.6766411239,0.224934753,0.09842412301
+Sweden,Slovakia,Group,0.4722458302,0.2492920328,0.278462137
+Spain,Poland,Group,0.5441922373,0.3079415826,0.1478661801
+Slovakia,Spain,Group,0.1415425524,0.1552428825,0.703214565
+Sweden,Poland,Group,0.3902212316,0.2820109474,0.327767821
+Hungary,Portugal,Group,0.1279749419,0.1514126982,0.7206123599
+France,Germany,Group,0.6741535213,0.2370986235,0.08874785513
+Hungary,France,Group,0.1193680686,0.1476401961,0.7329917353
+Portugal,Germany,Group,0.613852457,0.1850872608,0.2010602821
+Portugal,France,Group,0.4571145055,0.1837513001,0.3591341944
+Germany,Hungary,Group,0.6232033346,0.2475352195,0.1292614459
+Turkey,Wales,Knockout,0.5254089426,0,0.4745910574
+Turkey,Italy,Knockout,0.2100176371,0,0.7899823629
+Turkey,Switzerland,Knockout,0.3819554338,0,0.6180445662
+Turkey,Denmark,Knockout,0.2263556588,0,0.7736443412
+Turkey,Belgium,Knockout,0.2630842341,0,0.7369157659
+Turkey,Finland,Knockout,0.7174238624,0,0.2825761376
+Turkey,Russia,Knockout,0.257460386,0,0.742539614
+Turkey,Austria,Knockout,0.2248432756,0,0.7751567244
+Turkey,Netherlands,Knockout,0.2145764387,0,0.7854235613
+Turkey,Ukraine,Knockout,0.7475522564,0,0.2524477436
+Turkey,North Macedonia,Knockout,0.5328299471,0,0.4671700529
+Turkey,England,Knockout,0.2114314266,0,0.7885685734
+Turkey,Scotland,Knockout,0.5599890042,0,0.4400109958
+Turkey,Croatia,Knockout,0.5557189068,0,0.4442810932
+Turkey,Czech Republic,Knockout,0.3790395779,0,0.6209604221
+Turkey,Poland,Knockout,0.3605245786,0,0.6394754214
+Turkey,Spain,Knockout,0.1867707481,0,0.8132292519
+Turkey,Sweden,Knockout,0.6516962091,0,0.3483037909
+Turkey,Slovakia,Knockout,0.5887625936,0,0.4112374064
+Turkey,Hungary,Knockout,0.604055827,0,0.395944173
+Turkey,France,Knockout,0.2042997842,0,0.7957002158
+Turkey,Portugal,Knockout,0.2206236592,0,0.7793763408
+Turkey,Germany,Knockout,0.2783645799,0,0.7216354201
+Wales,Italy,Knockout,0.3472774013,0,0.6527225987
+Wales,Switzerland,Knockout,0.7166867224,0,0.2833132776
+Wales,Denmark,Knockout,0.3946378534,0,0.6053621466
+Wales,Belgium,Knockout,0.4501220946,0,0.5498779054
+Wales,Finland,Knockout,0.7657369692,0,0.2342630308
+Wales,Russia,Knockout,0.5997885753,0,0.4002114247
+Wales,Austria,Knockout,0.5119981681,0,0.4880018319
+Wales,Netherlands,Knockout,0.5264002498,0,0.4735997502
+Wales,Ukraine,Knockout,0.822552768,0,0.177447232
+Wales,North Macedonia,Knockout,0.7338901028,0,0.2661098972
+Wales,England,Knockout,0.3678822893,0,0.6321177107
+Wales,Scotland,Knockout,0.8094262433,0,0.1905737567
+Wales,Croatia,Knockout,0.7574291795,0,0.2425708205
+Wales,Czech Republic,Knockout,0.7463714957,0,0.2536285043
+Wales,Poland,Knockout,0.6385916444,0,0.3614083556
+Wales,Spain,Knockout,0.516778258,0,0.483221742
+Wales,Sweden,Knockout,0.7788876693,0,0.2211123307
+Wales,Slovakia,Knockout,0.7777931507,0,0.2222068493
+Wales,Hungary,Knockout,0.7875561739,0,0.2124438261
+Wales,France,Knockout,0.4133714612,0,0.5866285388
+Wales,Portugal,Knockout,0.3789708079,0,0.6210291921
+Wales,Germany,Knockout,0.6247236762,0,0.3752763238
+Italy,Switzerland,Knockout,0.8785366993,0,0.1214633007
+Italy,Denmark,Knockout,0.7600227007,0,0.2399772993
+Italy,Belgium,Knockout,0.7884292734,0,0.2115707266
+Italy,Finland,Knockout,0.8345604945,0,0.1654395055
+Italy,Russia,Knockout,0.854833745,0,0.145166255
+Italy,Austria,Knockout,0.8190903639,0,0.1809096361
+Italy,Netherlands,Knockout,0.7829732469,0,0.2170267531
+Italy,Ukraine,Knockout,0.8905348497,0,0.1094651503
+Italy,North Macedonia,Knockout,0.7458162468,0,0.2541837532
+Italy,England,Knockout,0.7460847811,0,0.2539152189
+Italy,Scotland,Knockout,0.8773814221,0,0.1226185779
+Italy,Croatia,Knockout,0.8839544772,0,0.1160455228
+Italy,Czech Republic,Knockout,0.8847044908,0,0.1152955092
+Italy,Poland,Knockout,0.842056193,0,0.157943807
+Italy,Spain,Knockout,0.8058947023,0,0.1941052977
+Italy,Sweden,Knockout,0.8915483217,0,0.1084516783
+Italy,Slovakia,Knockout,0.8526763585,0,0.1473236415
+Italy,Hungary,Knockout,0.8860280444,0,0.1139719556
+Italy,France,Knockout,0.8056220207,0,0.1943779793
+Italy,Portugal,Knockout,0.7523482391,0,0.2476517609
+Italy,Germany,Knockout,0.8868912551,0,0.1131087449
+Switzerland,Denmark,Knockout,0.2751087766,0,0.7248912234
+Switzerland,Belgium,Knockout,0.323073437,0,0.676926563
+Switzerland,Finland,Knockout,0.7417914062,0,0.2582085938
+Switzerland,Russia,Knockout,0.377016532,0,0.622983468
+Switzerland,Austria,Knockout,0.3286024332,0,0.6713975668
+Switzerland,Netherlands,Knockout,0.3464917738,0,0.6535082262
+Switzerland,Ukraine,Knockout,0.7600269715,0,0.2399730285
+Switzerland,North Macedonia,Knockout,0.5186895904,0,0.4813104096
+Switzerland,England,Knockout,0.2059185474,0,0.7940814526
+Switzerland,Scotland,Knockout,0.6821185589,0,0.3178814411
+Switzerland,Croatia,Knockout,0.6502044365,0,0.3497955635
+Switzerland,Czech Republic,Knockout,0.5659991039,0,0.4340008961
+Switzerland,Poland,Knockout,0.4899473749,0,0.5100526251
+Switzerland,Spain,Knockout,0.3228851844,0,0.6771148156
+Switzerland,Sweden,Knockout,0.7551362607,0,0.2448637393
+Switzerland,Slovakia,Knockout,0.6867657948,0,0.3132342052
+Switzerland,Hungary,Knockout,0.702074669,0,0.297925331
+Switzerland,France,Knockout,0.2710717291,0,0.7289282709
+Switzerland,Portugal,Knockout,0.2499940224,0,0.7500059776
+Switzerland,Germany,Knockout,0.3770638196,0,0.6229361804
+Denmark,Belgium,Knockout,0.7578004865,0,0.2421995135
+Denmark,Finland,Knockout,0.8688928988,0,0.1311071012
+Denmark,Russia,Knockout,0.8577021788,0,0.1422978212
+Denmark,Austria,Knockout,0.8069337418,0,0.1930662582
+Denmark,Netherlands,Knockout,0.7715783603,0,0.2284216397
+Denmark,Ukraine,Knockout,0.8899746457,0,0.1100253543
+Denmark,North Macedonia,Knockout,0.7469748355,0,0.2530251645
+Denmark,England,Knockout,0.7116429251,0,0.2883570749
+Denmark,Scotland,Knockout,0.8817999942,0,0.1182000058
+Denmark,Croatia,Knockout,0.8804112278,0,0.1195887722
+Denmark,Czech Republic,Knockout,0.8836258108,0,0.1163741892
+Denmark,Poland,Knockout,0.8245830196,0,0.1754169804
+Denmark,Spain,Knockout,0.7770794676,0,0.2229205324
+Denmark,Sweden,Knockout,0.9136039765,0,0.08639602346
+Denmark,Slovakia,Knockout,0.8556392163,0,0.1443607837
+Denmark,Hungary,Knockout,0.9016283859,0,0.09837161407
+Denmark,France,Knockout,0.7696466846,0,0.2303533154
+Denmark,Portugal,Knockout,0.7243973891,0,0.2756026109
+Denmark,Germany,Knockout,0.8813204039,0,0.1186795961
+Belgium,Finland,Knockout,0.8022542699,0,0.1977457301
+Belgium,Russia,Knockout,0.83730345,0,0.16269655
+Belgium,Austria,Knockout,0.769884838,0,0.230115162
+Belgium,Netherlands,Knockout,0.7352343081,0,0.2647656919
+Belgium,Ukraine,Knockout,0.8596222224,0,0.1403777776
+Belgium,North Macedonia,Knockout,0.7468228697,0,0.2531771303
+Belgium,England,Knockout,0.689783298,0,0.310216702
+Belgium,Scotland,Knockout,0.8917004454,0,0.1082995546
+Belgium,Croatia,Knockout,0.8637446965,0,0.1362553035
+Belgium,Czech Republic,Knockout,0.85604715,0,0.14395285
+Belgium,Poland,Knockout,0.7907740878,0,0.2092259122
+Belgium,Spain,Knockout,0.7499152839,0,0.2500847161
+Belgium,Sweden,Knockout,0.8627644099,0,0.1372355901
+Belgium,Slovakia,Knockout,0.8197616293,0,0.1802383707
+Belgium,Hungary,Knockout,0.8462816539,0,0.1537183461
+Belgium,France,Knockout,0.746865397,0,0.253134603
+Belgium,Portugal,Knockout,0.6997572335,0,0.3002427665
+Belgium,Germany,Knockout,0.8472247764,0,0.1527752236
+Finland,Russia,Knockout,0.267974365,0,0.732025635
+Finland,Austria,Knockout,0.378482502,0,0.621517498
+Finland,Netherlands,Knockout,0.3760672687,0,0.6239327313
+Finland,Ukraine,Knockout,0.701823054,0,0.298176946
+Finland,North Macedonia,Knockout,0.4475363529,0,0.5524636471
+Finland,England,Knockout,0.2501362296,0,0.7498637704
+Finland,Scotland,Knockout,0.4890628,0,0.5109372
+Finland,Croatia,Knockout,0.543753878,0,0.456246122
+Finland,Czech Republic,Knockout,0.473970071,0,0.526029929
+Finland,Poland,Knockout,0.4461035073,0,0.5538964927
+Finland,Spain,Knockout,0.3830947768,0,0.6169052232
+Finland,Sweden,Knockout,0.5869051419,0,0.4130948581
+Finland,Slovakia,Knockout,0.5667634354,0,0.4332365646
+Finland,Hungary,Knockout,0.54628101,0,0.45371899
+Finland,France,Knockout,0.2776513425,0,0.7223486575
+Finland,Portugal,Knockout,0.2300254119,0,0.7699745881
+Finland,Germany,Knockout,0.3328637677,0,0.6671362323
+Russia,Austria,Knockout,0.3225946134,0,0.6774053866
+Russia,Netherlands,Knockout,0.3542398465,0,0.6457601535
+Russia,Ukraine,Knockout,0.7970202297,0,0.2029797703
+Russia,North Macedonia,Knockout,0.5646391512,0,0.4353608488
+Russia,England,Knockout,0.2505365861,0,0.7494634139
+Russia,Scotland,Knockout,0.7259396659,0,0.2740603341
+Russia,Croatia,Knockout,0.6493717502,0,0.3506282498
+Russia,Czech Republic,Knockout,0.5751640814,0,0.4248359186
+Russia,Poland,Knockout,0.482570848,0,0.517429152
+Russia,Spain,Knockout,0.3319020671,0,0.6680979329
+Russia,Sweden,Knockout,0.8189731513,0,0.1810268487
+Russia,Slovakia,Knockout,0.6883772477,0,0.3116227523
+Russia,Hungary,Knockout,0.7495329441,0,0.2504670559
+Russia,France,Knockout,0.2594357529,0,0.7405642471
+Russia,Portugal,Knockout,0.2402545434,0,0.7597454566
+Russia,Germany,Knockout,0.4218054411,0,0.5781945589
+Austria,Netherlands,Knockout,0.5353214283,0,0.4646785717
+Austria,Ukraine,Knockout,0.8619133094,0,0.1380866906
+Austria,North Macedonia,Knockout,0.6049717159,0,0.3950282841
+Austria,England,Knockout,0.4283546397,0,0.5716453603
+Austria,Scotland,Knockout,0.7770915296,0,0.2229084704
+Austria,Croatia,Knockout,0.8102728248,0,0.1897271752
+Austria,Czech Republic,Knockout,0.7666940979,0,0.2333059021
+Austria,Poland,Knockout,0.6435717192,0,0.3564282808
+Austria,Spain,Knockout,0.5530469467,0,0.4469530533
+Austria,Sweden,Knockout,0.8498340161,0,0.1501659839
+Austria,Slovakia,Knockout,0.7369642444,0,0.2630357556
+Austria,Hungary,Knockout,0.7888305121,0,0.2111694879
+Austria,France,Knockout,0.4619949743,0,0.5380050257
+Austria,Portugal,Knockout,0.4376450793,0,0.5623549207
+Austria,Germany,Knockout,0.6580734737,0,0.3419265263
+Netherlands,Ukraine,Knockout,0.8595121674,0,0.1404878326
+Netherlands,North Macedonia,Knockout,0.5301080935,0,0.4698919065
+Netherlands,England,Knockout,0.4652189582,0,0.5347810418
+Netherlands,Scotland,Knockout,0.6675625175,0,0.3324374825
+Netherlands,Croatia,Knockout,0.7013059014,0,0.2986940986
+Netherlands,Czech Republic,Knockout,0.6798102809,0,0.3201897191
+Netherlands,Poland,Knockout,0.5681007975,0,0.4318992025
+Netherlands,Spain,Knockout,0.510539494,0,0.489460506
+Netherlands,Sweden,Knockout,0.8139556812,0,0.1860443188
+Netherlands,Slovakia,Knockout,0.7078089704,0,0.2921910296
+Netherlands,Hungary,Knockout,0.7557539585,0,0.2442460415
+Netherlands,France,Knockout,0.463121891,0,0.536878109
+Netherlands,Portugal,Knockout,0.4329523491,0,0.5670476509
+Netherlands,Germany,Knockout,0.5331858075,0,0.4668141925
+Ukraine,North Macedonia,Knockout,0.3685797766,0,0.6314202234
+Ukraine,England,Knockout,0.1843463067,0,0.8156536933
+Ukraine,Scotland,Knockout,0.3534405354,0,0.6465594646
+Ukraine,Croatia,Knockout,0.4124782311,0,0.5875217689
+Ukraine,Czech Republic,Knockout,0.2943417668,0,0.7056582332
+Ukraine,Poland,Knockout,0.2575131226,0,0.7424868774
+Ukraine,Spain,Knockout,0.231318105,0,0.768681895
+Ukraine,Sweden,Knockout,0.5122351836,0,0.4877648164
+Ukraine,Slovakia,Knockout,0.4060454658,0,0.5939545342
+Ukraine,Hungary,Knockout,0.4624647612,0,0.5375352388
+Ukraine,France,Knockout,0.2046912194,0,0.7953087806
+Ukraine,Portugal,Knockout,0.1662677524,0,0.8337322476
+Ukraine,Germany,Knockout,0.1867036095,0,0.8132963905
+North Macedonia,England,Knockout,0.1537171415,0,0.8462828585
+North Macedonia,Scotland,Knockout,0.5483560619,0,0.4516439381
+North Macedonia,Croatia,Knockout,0.5613566058,0,0.4386433942
+North Macedonia,Czech Republic,Knockout,0.3576016318,0,0.6423983682
+North Macedonia,Poland,Knockout,0.2799765056,0,0.7200234944
+North Macedonia,Spain,Knockout,0.1474119058,0,0.8525880942
+North Macedonia,Sweden,Knockout,0.6084337562,0,0.3915662438
+North Macedonia,Slovakia,Knockout,0.5694439131,0,0.4305560869
+North Macedonia,Hungary,Knockout,0.5938189935,0,0.4061810065
+North Macedonia,France,Knockout,0.1493676744,0,0.8506323256
+North Macedonia,Portugal,Knockout,0.1474530683,0,0.8525469317
+North Macedonia,Germany,Knockout,0.2145972635,0,0.7854027365
+England,Scotland,Knockout,0.850476294,0,0.149523706
+England,Croatia,Knockout,0.8581606571,0,0.1418393429
+England,Czech Republic,Knockout,0.8752348859,0,0.1247651141
+England,Poland,Knockout,0.8130445853,0,0.1869554147
+England,Spain,Knockout,0.8029707425,0,0.1970292575
+England,Sweden,Knockout,0.8722708903,0,0.1277291097
+England,Slovakia,Knockout,0.8106491013,0,0.1893508987
+England,Hungary,Knockout,0.8713865785,0,0.1286134215
+England,France,Knockout,0.789234068,0,0.210765932
+England,Portugal,Knockout,0.71073958,0,0.28926042
+England,Germany,Knockout,0.867893724,0,0.132106276
+Scotland,Croatia,Knockout,0.5696270115,0,0.4303729885
+Scotland,Czech Republic,Knockout,0.3509106398,0,0.6490893602
+Scotland,Poland,Knockout,0.2878787322,0,0.7121212678
+Scotland,Spain,Knockout,0.1803208315,0,0.8196791685
+Scotland,Sweden,Knockout,0.6959964569,0,0.3040035431
+Scotland,Slovakia,Knockout,0.6215632085,0,0.3784367915
+Scotland,Hungary,Knockout,0.6487430111,0,0.3512569889
+Scotland,France,Knockout,0.1712734092,0,0.8287265908
+Scotland,Portugal,Knockout,0.1498241084,0,0.8501758916
+Scotland,Germany,Knockout,0.2089093891,0,0.7910906109
+Croatia,Czech Republic,Knockout,0.590108427,0,0.409891573
+Croatia,Poland,Knockout,0.4705077899,0,0.5294922101
+Croatia,Spain,Knockout,0.337775026,0,0.662224974
+Croatia,Sweden,Knockout,0.8015431193,0,0.1984568807
+Croatia,Slovakia,Knockout,0.7099941359,0,0.2900058641
+Croatia,Hungary,Knockout,0.7414075327,0,0.2585924673
+Croatia,France,Knockout,0.2907184412,0,0.7092815588
+Croatia,Portugal,Knockout,0.3562077133,0,0.6437922867
+Croatia,Germany,Knockout,0.4255404724,0,0.5744595276
+Czech Republic,Poland,Knockout,0.3002779298,0,0.6997220702
+Czech Republic,Spain,Knockout,0.172280057,0,0.827719943
+Czech Republic,Sweden,Knockout,0.7527514888,0,0.2472485112
+Czech Republic,Slovakia,Knockout,0.665391612,0,0.334608388
+Czech Republic,Hungary,Knockout,0.6870926865,0,0.3129073135
+Czech Republic,France,Knockout,0.1529193332,0,0.8470806668
+Czech Republic,Portugal,Knockout,0.1637422788,0,0.8362577212
+Czech Republic,Germany,Knockout,0.2892175668,0,0.7107824332
+Poland,Spain,Knockout,0.4389178643,0,0.5610821357
+Poland,Sweden,Knockout,0.7727192584,0,0.2272807416
+Poland,Slovakia,Knockout,0.7137782395,0,0.2862217605
+Poland,Hungary,Knockout,0.7967371579,0,0.2032628421
+Poland,France,Knockout,0.3461928922,0,0.6538071078
+Poland,Portugal,Knockout,0.3147654696,0,0.6852345304
+Poland,Germany,Knockout,0.5781286816,0,0.4218713184
+Spain,Sweden,Knockout,0.8730118227,0,0.1269881773
+Spain,Slovakia,Knockout,0.7888961213,0,0.2111038787
+Spain,Hungary,Knockout,0.8793490686,0,0.1206509314
+Spain,France,Knockout,0.7476467505,0,0.2523532495
+Spain,Portugal,Knockout,0.6658983037,0,0.3341016963
+Spain,Germany,Knockout,0.8525607226,0,0.1474392774
+Sweden,Slovakia,Knockout,0.6290672949,0,0.3709327051
+Sweden,Hungary,Knockout,0.6989143025,0,0.3010856975
+Sweden,France,Knockout,0.3570002443,0,0.6429997557
+Sweden,Portugal,Knockout,0.2914963381,0,0.7085036619
+Sweden,Germany,Knockout,0.4736661203,0,0.5263338797
+Slovakia,Hungary,Knockout,0.4155233321,0,0.5844766679
+Slovakia,France,Knockout,0.1516624139,0,0.8483375861
+Slovakia,Portugal,Knockout,0.1518413378,0,0.8481586622
+Slovakia,Germany,Knockout,0.1903910191,0,0.8096089809
+Hungary,France,Knockout,0.1400442255,0,0.8599557745
+Hungary,Portugal,Knockout,0.1508094001,0,0.8491905999
+Hungary,Germany,Knockout,0.2551210674,0,0.7448789326
+France,Portugal,Knockout,0.7373918168,0,0.2626081832
+France,Germany,Knockout,0.8836706056,0,0.1163293944
+Portugal,Germany,Knockout,0.7532738507,0,0.2467261493

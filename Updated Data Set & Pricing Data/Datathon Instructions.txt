@@ -1,0 +1,52 @@
+BETFAIR EURO & COPA AMERICA DATATHON INSTRUCTIONS
+
+Thank You for registering for Betfair’s Euro & Copa America Datathon!
+
+Please direct any questions to datathon@betfair.com.au.
+
+Full Terms & Conditions can be found at: https://www.betfairpromotions.com.au/terms-conditions-datathon-euro-copa-america/
+
+
+
+NOTES ON PROVIDED DATA
+
+This folder contains updated form data containing international fixtures dating back to 2014 including both major tournaments as well as friendlies (where data is available).
+
+Also included is Betfair’s pricing data (historic odds) relating to relevant major tournaments (Copa America 2015, 2016 & 2019, Euro 2016, FIFA World Cup 2014 & 2018). Use this data to back-test a model's efficacy or as a input feature.
+
+Acronyms used:
+XG = expected goals
+PPG = points per game
+- pre-match ppg columns refer to a team’s average points (3 for a win, 1 for a draw, 0 for a loss) across games so far in that tournament
+- ppg columns refer to a team’s average points (3 for a win, 1 for a draw, 0 for a loss) across the full completed tournament
+
+
+
+SUBMISSION DEADLINE
+
+Your set of predictions will be due before the two tournaments kick off – all submissions must be emailed to datathon@betfair.com.au before 11:59 pm AEST Friday, June 11th, 2021. 
+
+Please name submission files using the following formatting: 
+- {model_name}_submission_file_euro.csv; and
+- {model_name}_submission_file_copa_america.csv
+
+To submit your model entry, please email it to datathon@betfair.com.au.
+
+
+
+JUDGING & RULES
+
+The Datathon will be judged using the log loss method (cross entropy). If unfamiliar with log loss, see here for a detailed explanation: https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#cross-entropy
+The winner will be the Competition Entrant with the lowest mean (average) log loss over all matches that actually take place throughout the two tournaments (51 in the Euro and 28 in the Copa America). 
+
+Two submission file templates will be provided to Competition Entrants along with the data sets upon registration – one for each of the Euro and the Copa America.
+Submissions must follow the template set out in the two submission file templates provided and must be submitted in a csv format. 
+
+For the GROUP STAGE of each tournament, Competition Entrants will be required to submit probabilities of a WIN, DRAW or LOSS for a given team in each scheduled match (36 for the Euro, 20 for the Copa America).
+Additionally, for the KNOCKOUT STAGES of each tournament Competition Entrants will be required to submit probabilities of a WIN or LOSS (no draws) for a given team in every possible match-up that could occur (i.e. the 276 possible combinations of teams who could play off head-to-head in the Euro knockout stages and the 45 combinations of teams who could play off in the Copa America knockout stages). 
+You will see that there are already 0s marked in the submission file templates for draws during the knockout stages of each tournament - these obviously will need to remain as 0s in your final submissions.
+
+
+Good luck!
+
+
